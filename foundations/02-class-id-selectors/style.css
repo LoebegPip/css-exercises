@@ -1,20 +1,19 @@
-.normie,
-.unique {
-background-color: pink;
-}
-
 .normie {
-
+background-color: hsl(350, 100%, 88%);
+font-family: Verdana, DejaVu Sans, sans-serif;
 }
 
 .unique {
-
+font-size: 24px;
 }
 
 #two {
-
+font-size: 36px;
+color: #0000ff;
 }
 
 #four {
-    
+font-size: 24px;
+background-color: rgb(16, 197, 16);
+font-weight: bold;    
 }
